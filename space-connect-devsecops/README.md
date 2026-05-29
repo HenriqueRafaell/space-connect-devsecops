@@ -284,25 +284,4 @@ pip install detect-secrets
 
 ---
 
-## 📞 Suporte
 
-Para dúvidas sobre este projeto:
-1. Leia o [SECURITY.md](SECURITY.md)
-2. Verifique os [GitHub Actions logs](../../actions)
-3. Consulte a [documentação oficial](https://detect-secrets.readthedocs.io/)
-
----
-
-## 📄 Licença
-
-Este projeto é licenciado sob a MIT License - veja o arquivo LICENSE para detalhes.
-
----
-
-<div align="center">
-
-**⭐ Se este projeto foi útil, deixe uma estrela!**
-
-Desenvolvido com 🛰️ e 🔐 para Space Connect
-
-</div>
