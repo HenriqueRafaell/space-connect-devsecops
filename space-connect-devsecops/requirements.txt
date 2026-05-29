@@ -1,0 +1,16 @@
+# Space Connect DevSecOps - Dependências Python
+
+# Segurança
+detect-secrets==1.4.0
+bandit==1.7.5
+safety==2.3.5
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Desenvolvimento (opcional)
+pytest==7.4.0
+pytest-cov==4.1.0
+black==23.9.0
+flake8==6.1.0
